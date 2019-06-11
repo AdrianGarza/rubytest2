@@ -1,24 +1,18 @@
-# README
+# READ ME
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is my 2nd time editing md files
 
-Things you may want to cover:
+## Features 
+ 
+- Live chat
+- Blog
+- much more
 
-* Ruby version
+### Code example
 
-* System dependencies
+```ruby
+def you_are_breathaking
+	puts "N0!, You are breathtaking"
+end
+```
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
